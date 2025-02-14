@@ -46,6 +46,8 @@
       background-size: cover; /* Ajusta la imagen para cubrir toda la pantalla */
       background-position: center; /* Centra la imagen */
       background-repeat: no-repeat; /* Evita que la imagen se repita */
+  color: black; /* Hace que todo el texto sea negro */
+
     }
     
     
