@@ -8,7 +8,7 @@
     <h4>Te re confundiste ahora</h4>
     <img src="/src/assets/heart-png.webp" alt="Foto" class="imagen scale-up-center">
     <img src="/src/assets/heart-png.webp" alt="Foto" class="imagen2">
-    <img src="/src/assets/heart-png.webp" alt="Foto" class="imagen3">
+
     <br>
     
     
